@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{813107C1-58EE-4002-B345-EB1AD93A1E09}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASI/Controllers/ContactController.cs">
+    <Files>
+      <File FileName="ASI/Models/Contact.cs" Line="17" Column="20" />
+      <File FileName="ASI/Controllers/WeatherForecastController.cs" Line="3" Column="14" />
+      <File FileName="ASI/Models/DataBase/AppDb.cs" Line="10" Column="68" />
+      <File FileName="ASI/Program.cs" Line="15" Column="1" />
+      <File FileName="ASI/Models/DataBase/SeedData.cs" Line="28" Column="64" />
+      <File FileName="ASI/Controllers/ContactController.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASI" expanded="True">
+            <Node name="ASI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ContactController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="DataBase" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
